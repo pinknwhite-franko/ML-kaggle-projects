@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# virtual envrionment
+skireview
+
+#kaggle creds
+kaggle.json
+
+# dataset file
+datasets
+
+# mac .DS_Store
+.DS_Store
