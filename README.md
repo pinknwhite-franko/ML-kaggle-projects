@@ -33,7 +33,7 @@ The file should have the following attributes:
 {"username":"xxxxxx","key":"xxxxxxxxxxxxxxxxxxxxxx"}
 ```
 
-#### Step 2: place it in the root directory.
+#### Step 2: Ensure kaggle.json is in the location ~/.kaggle/kaggle.json to use the API.
 
 ### Start Jupyter Notebook
 In the root directory, run
