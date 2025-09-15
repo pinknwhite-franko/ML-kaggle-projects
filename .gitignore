@@ -175,12 +175,14 @@ cython_debug/
 
 # virtual envrionment
 skireview
+.*
 
 #kaggle creds
 kaggle.json
 
 # dataset file
-onthesnow-ski-area-reviews.zip
+*.zip
+**/datasets/
 
 # mac .DS_Store
 .DS_Store
